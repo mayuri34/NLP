@@ -1,0 +1,8 @@
+: animal-sounds
+duck quack dog bark
+duck quack bat screech
+duck quack dolphin click
+: company-AI_product
+apple siri google google_assistant
+apple siri amazon alexa
+apple siri microsoft cortana
