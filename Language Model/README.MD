@@ -13,18 +13,12 @@ Program:
 
 Output:
 
-Accuracy for unigram in English and French is:  
-0.785 
-Accuracy for bigram in English and French is:  
-0.91 
-Accuracy for trigram in English and French is:  
-0.993 
+Accuracy for unigram in English and French is: 0.785 
+Accuracy for bigram in English and French is:  0.91 
+Accuracy for trigram in English and French is: 0.993 
 
-Accuracy for unigram in Spanish and Italian is:  
-0.671 
-Accuracy for bigram in Spanish and Italian is:  
-0.838 
-Accuracy for trigram in Spanish and Italian is:  
-0.98 
+Accuracy for unigram in Spanish and Italian is: 0.671 
+Accuracy for bigram in Spanish and Italian is:  0.838 
+Accuracy for trigram in Spanish and Italian is: 0.98 
  
  
